@@ -35,8 +35,14 @@
     - Dropbox
     - 1Password
     - f.lux
-    - Skype
-    - Steam
-    - Battle.net
+    - whatever else
   - App Store
     - Tweetbot
+    
+## Development
+1. Install the Xcode cli tools `xcode-select --install` in a terminal
+2. Install [git](https://git-scm.com/download/mac)
+3. Install [homebrew](http://brew.sh/)
+4. `brew install ruby` to install a sane, up-to-date version of Ruby
+5. Install [Node](https://nodejs.org/)
+6. Install iTerm 2
