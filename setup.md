@@ -47,13 +47,19 @@
 4. `brew install ruby` to install a sane, up-to-date version of Ruby
 5. Install [Node](https://nodejs.org/)
 
-### Setting up Git
+### Setting up Git and GitKraken
 1. Follow instructions for [setting up SSH for Github](https://help.github.com/articles/generating-an-ssh-key/)
 2. Clone this repo to your project folder: `git clone git@github.com:chilblane/config.git`
 3. Note that you may be prompted to approve GitHub to the list of known hosts.
+4. Install [GitKraken](https://www.gitkraken.com/)
+5. In GitKraken preferences, fix the project folder location and authenticate with GitHub.
 
 ### Setting up iTerm and Zsh
 1. Install [iTerm 2](https://www.iterm2.com/)
 2. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 3. In iTerm's preferences, check _Load preferences from a custom folder or URL:_ and navigate to this repository folder. Copy the settings.
 4. Go to _Profiles_ > _Colors_ and select _Solarized Dark_ from the Color Presets.
+
+### Setting up Atom
+1. Install [Atom](https://atom.io/)
+2. Copy the Atom settings from this repo to your local installation: `cp -R [repo folder]/.atom/ ~/`
