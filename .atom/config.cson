@@ -1,0 +1,32 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab"
+  core:
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    packagesWithKeymapsDisabled: [
+      "tag"
+    ]
+    projectHome: "/Users/daniel/Sites"
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "twilight-syntax"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    fontFamily: "Monaco"
+    fontSize: 12
+    lineHeight: 1.7
+    tabLength: 4
+  "exception-reporting":
+    userId: "ce0bc2ad-5d4e-dd4f-ef8e-f11f75b153c5"
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
