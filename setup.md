@@ -40,9 +40,20 @@
     - Tweetbot
     
 ## Development
+### Prerequisites
 1. Install the Xcode cli tools `xcode-select --install` in a terminal
-2. Install [git](https://git-scm.com/download/mac)
-3. Install [homebrew](http://brew.sh/)
+2. Install [Git](https://git-scm.com/download/mac)
+3. Install [Homebrew](http://brew.sh/)
 4. `brew install ruby` to install a sane, up-to-date version of Ruby
 5. Install [Node](https://nodejs.org/)
-6. Install iTerm 2
+
+### Setting up Git
+1. Follow instructions for [setting up SSH for Github](https://help.github.com/articles/generating-an-ssh-key/)
+2. Clone this repo to your project folder: `git clone git@github.com:chilblane/config.git`
+3. Note that you may be prompted to approve GitHub to the list of known hosts.
+
+### Setting up iTerm and Zsh
+1. Install [iTerm 2](https://www.iterm2.com/)
+2. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+3. In iTerm's preferences, check _Load preferences from a custom folder or URL:_ and navigate to this repository folder. Copy the settings.
+4. Go to _Profiles_ > _Colors_ and select _Solarized Dark_ from the Color Presets.
