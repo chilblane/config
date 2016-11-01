@@ -35,6 +35,8 @@ Everything I need to set up a new dev environment.
     - Dropbox
     - 1Password
     - f.lux
+    - Bartender
+    - iStat Menus
     - whatever else
   - App Store
     - Tweetbot
